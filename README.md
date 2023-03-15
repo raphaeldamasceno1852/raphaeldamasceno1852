@@ -4,10 +4,11 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphaeldamasceno1852&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Raphael Damasceno github stats" /> 
+  
+(https://github-readme-activity-graph.cyclic.app/graph?username=raphaeldamasceno1852&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldamasceno1852&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=raphaeldamasceno1852&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=raphaeldamasceno1852&theme=gotham&hide_border=true&area=true) -->
 
